@@ -1,0 +1,2 @@
+rootProject.name='VimeoDemo'
+include ':app',':vimeo-networking-java'
